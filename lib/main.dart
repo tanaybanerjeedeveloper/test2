@@ -19,12 +19,6 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white,
       ),
       home: MainPage(),
-      // initialRoute: MyHomePage.id,
-      // routes: {
-      //   FeedScreen.id: (context) => FeedScreen(),
-      //   ChatScreen.id: (context) => ChatScreen(),
-      //   MyHomePage.id: (context) => MyHomePage(),
-      // },
       debugShowCheckedModeBanner: false,
     );
   }
