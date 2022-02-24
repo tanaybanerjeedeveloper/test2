@@ -6,7 +6,6 @@ class DoctorsList extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       height: 170,
-      // padding: EdgeInsets.symmetric(vertical: 0, horizontal: 20.0),
       color: Colors.white,
       child: ListView(
         scrollDirection: Axis.horizontal,
